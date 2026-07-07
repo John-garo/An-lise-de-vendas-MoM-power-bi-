@@ -8,24 +8,21 @@ Esse projeto foge um pouco do padrão dos painéis que eu fazia antes da pós-gr
 
 O maior desafio visual foi equilibrar a densidade de dados históricos(o gráfico de linhas expressa bem as diferenças se usar os filtros expressa ainda mais oque facilita estruturar uma estratégia) com a legibilidade dos eixos temporais, garantindo que o usuário compreenda a tendência real de crescimento ou queda sem fricção. Estou finalizando alguns ajustes finos de formatação numérica e logo mais o painel estará publicado no meu portfólio! 
 
-Hard Skills aplicadas no projeto:
+---
 
-Modelagem de dados (Relacionamento de tabelas)
+## 🛠️ Hard Skills Aplicadas
+* **Modelagem de Dados:** Estruturação e relacionamento de tabelas (Fato e Dimensão).
+* **Power Query & ETL:** Extração, limpeza e transformação de dados históricos.
+* **DAX & Inteligência de Tempo (Time Intelligence):** Criação de cálculos dinâmicos de variação mensal.
+* **Análise de Performance de Negócio:** Desenvolvimento de métricas MoM (Variação Nominal e Percentual).
+* **Análise Descritiva & Visualização de Dados:** Aplicação de Data Storytelling para relatórios gerenciais limpos.
 
-DAX & Inteligência de tempo (Time Intelligence)
+## 🧠 Soft Skills Desenvolvidas
+* **Pensamento Crítico:** Capacidade de priorizar a profundidade analítica e a entrega de valor real em detrimento de recursos puramente visuais ou poluídos.
+* **Comunicação Visual (Data Literacy):** Preocupação em traduzir conceitos matemáticos e estatísticos complexos em um layout de fácil leitura para qualquer gestor.
+* **Orientação a Resultados:** Foco total em responder perguntas de negócio estratégicas através do comportamento dos dados mês a mês.
 
-Análise e performance de negócio (Métricas MoM)
-
-Análise descritiva & Visualização de dados
-
-power query  & ETL
-Soft Skills desenvolvidas:
-
-Pensamento Crítico: Capacidade de priorizar a profundidade analítica e a entrega de valor de negócio em detrimento de recursos puramente estéticos.
-
-Comunicação Visual (Data Literacy): Preocupação em traduzir conceitos matemáticos complexos em um layout que seja de fácil leitura e interpretação para qualquer tomador de decisão.
-
-Orientação a Resultados: Foco em responder perguntas de negócio reais através do comportamento dos dados mês a mês.
+---
 <img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/82c7b682-25f1-4f9f-875e-b2495be293cc" />
 <img width="480" height="263" alt="image" src="https://github.com/user-attachments/assets/e89b10c5-3b54-40c9-b63a-4a4a1b2b29de" />
 
