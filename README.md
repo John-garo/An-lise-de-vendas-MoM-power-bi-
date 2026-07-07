@@ -23,6 +23,9 @@ O maior desafio visual foi equilibrar a densidade de dados históricos(o gráfic
 * **Orientação a Resultados:** Foco total em responder perguntas de negócio estratégicas através do comportamento dos dados mês a mês.
 
 ---
+
+## 📸 Demonstração do Projeto
+
 <img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/82c7b682-25f1-4f9f-875e-b2495be293cc" />
 <img width="480" height="263" alt="image" src="https://github.com/user-attachments/assets/e89b10c5-3b54-40c9-b63a-4a4a1b2b29de" />
 
